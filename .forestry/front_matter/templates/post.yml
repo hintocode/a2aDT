@@ -16,4 +16,5 @@ fields:
   label: hero_image
 pages:
 - posts/bali.md
+- posts/iceland.md
 - posts/mauritius.md
