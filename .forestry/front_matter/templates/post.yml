@@ -16,6 +16,7 @@ fields:
   label: hero_image
 pages:
 - posts/bali.md
+- posts/conero-wine.md
 - posts/iceland.md
 - posts/joshua-tree.md
 - posts/mauritius.md
